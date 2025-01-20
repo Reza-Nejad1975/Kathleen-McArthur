@@ -1,0 +1,69 @@
+.Heading1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000;
+	font-weight: bold;
+	text-align: left;
+}
+.TextStandard {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+}
+.TextWhite {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+}
+.Italic12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: normal;
+}
+.StandardTextBold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000;
+}
+.Text12Bold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+}
+.ItalicBold14 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+}
+.ItalicBold12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+}
+.HeadingBrown {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #D84416;
+}
+.Text14 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.Text8 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+}
+.Text8Italic {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	font-style: italic;
+}
